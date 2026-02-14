@@ -124,7 +124,6 @@ export default function ValentinesProposal() {
                     alt={`Memory ${index + 1}`}
                     fill
                     className="object-cover"
-                    unoptimized
                   />
                 </div>
               ))}
